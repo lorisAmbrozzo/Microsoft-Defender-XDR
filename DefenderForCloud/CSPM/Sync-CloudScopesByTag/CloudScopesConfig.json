@@ -2,19 +2,19 @@
   {
     "TagKey": "Environment",
     "TagValue": "Production",
-    "CloudScopeDisplayName": "Customer-Production-Scope",
+    "CloudScopeDisplayName": "LOAMLAB-Production-Scope",
     "CloudScopeDescription": "Azure subscriptions tagged Environment=Production"
   },
   {
     "TagKey": "Environment",
     "TagValue": "Non-Production",
-    "CloudScopeDisplayName": "Customer-Non-Production-Scope",
-    "CloudScopeDescription": "Azure subscriptions tagged Environment=Non-Production"
+    "CloudScopeDisplayName": "LOAMLAB-Canaray-Scope",
+    "CloudScopeDescription": "Azure subscriptions tagged Environment=Canary"
   },
   {
     "TagKey": "Environment",
     "TagValue": "Sandbox",
-    "CloudScopeDisplayName": "Customer-Sandbox-Scope",
+    "CloudScopeDisplayName": "LOAMLAB-Sandbox-Scope",
     "CloudScopeDescription": "Azure subscriptions tagged Environment=Sandbox"
   }
 ]
