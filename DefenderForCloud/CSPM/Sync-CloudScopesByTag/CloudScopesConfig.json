@@ -1,0 +1,20 @@
+[
+  {
+    "TagKey": "Environment",
+    "TagValue": "Production",
+    "CloudScopeDisplayName": "Customer-Production-Scope",
+    "CloudScopeDescription": "Azure subscriptions tagged Environment=Production"
+  },
+  {
+    "TagKey": "Environment",
+    "TagValue": "Non-Production",
+    "CloudScopeDisplayName": "Customer-Non-Production-Scope",
+    "CloudScopeDescription": "Azure subscriptions tagged Environment=Non-Production"
+  },
+  {
+    "TagKey": "Environment",
+    "TagValue": "Sandbox",
+    "CloudScopeDisplayName": "Customer-Sandbox-Scope",
+    "CloudScopeDescription": "Azure subscriptions tagged Environment=Sandbox"
+  }
+]
