@@ -8,7 +8,7 @@
   {
     "TagKey": "Environment",
     "TagValue": "Non-Production",
-    "CloudScopeDisplayName": "LOAMLAB-Canaray-Scope",
+    "CloudScopeDisplayName": "LOAMLAB-Canary-Scope",
     "CloudScopeDescription": "Azure subscriptions tagged Environment=Canary"
   },
   {
@@ -18,3 +18,6 @@
     "CloudScopeDescription": "Azure subscriptions tagged Environment=Sandbox"
   }
 ]
+
+
+

@@ -1,0 +1,15 @@
+[2026-10-17 16:37:16] [INFO] Connecting to Azure interactively...
+[2026-10-17 16:37:23] [INFO] Connecting to Microsoft Graph interactively (scope: Zone.ReadWrite.All)...
+[2026-10-17 16:37:23] [INFO] Retrieving all Azure subscriptions and their tags...
+[2026-10-17 16:37:24] [INFO] Retrieved 2 subscription(s).
+[2026-10-17 16:37:24] [INFO] Processing mapping: TagKey='Environment', TagValue='Production' -> CloudScopeDisplayName='LOAMLAB-Production-Scope'
+[2026-10-17 16:37:24] [INFO] Found 1 subscription(s) matching 'Environment=Production'.
+[2026-10-17 16:37:24] [INFO] Cloud scope 'LOAMLAB-Production-Scope' already exists (id: f443f6cc4a1a4b42b5bd09a30e295e46).
+[2026-10-17 16:37:25] [INFO] Processing mapping: TagKey='Environment', TagValue='Non-Production' -> CloudScopeDisplayName='LOAMLAB-Canaray-Scope'
+[2026-10-17 16:37:25] [INFO] Found 0 subscription(s) matching 'Environment=Non-Production'.
+[2026-10-17 16:37:25] [INFO] Cloud scope 'LOAMLAB-Canaray-Scope' already exists (id: 7da0df7ec2fb4297bcf133f51a902749).
+[2026-10-17 16:37:25] [INFO] Processing mapping: TagKey='Environment', TagValue='Sandbox' -> CloudScopeDisplayName='LOAMLAB-Sandbox-Scope'
+[2026-10-17 16:37:25] [INFO] Found 1 subscription(s) matching 'Environment=Sandbox'.
+[2026-10-17 16:37:26] [INFO] Cloud scope 'LOAMLAB-Sandbox-Scope' already exists (id: 9ce141e8781b40b38a019175ca92ffc8).
+[2026-10-17 16:37:26] [INFO] ----- Summary -----
+[2026-10-17 16:37:26] [INFO] Completed successfully.
