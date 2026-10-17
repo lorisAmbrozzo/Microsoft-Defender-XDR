@@ -1,4 +1,4 @@
-# Sync-CloudScopesByTag.ps1 — Tag-driven Defender for Cloud cloud scopes
+# Tag-driven Defender XDR Cloud Scopes Sync Script
 
 [Sync-CloudScopesByTag.ps1](./Sync-CloudScopesByTag.ps1) keeps Microsoft Defender for Cloud **cloud scopes**
 (Microsoft Graph **beta** `security.zone` / `security.environment` resources) continuously
